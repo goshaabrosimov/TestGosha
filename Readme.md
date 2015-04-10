@@ -1,4 +1,4 @@
-#Git講習会
+﻿#Git講習会
 
-Hello world
-Hello world!
+Hello work
+Hello work!
