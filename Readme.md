@@ -1,4 +1,6 @@
 ﻿#Git講習会
 
-Hello work
-Hello work!
+puts "Hello world"
+puts "Hello world!"
+puts "Hello world!!"
+puts "Hello world!!!"
